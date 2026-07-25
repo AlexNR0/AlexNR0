@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=¡Hola,%20soy%20Alex!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Frontend%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=¡Hola,%20soy%20Alejandro!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Madrid,%20España&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Frontend+Developer+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1;Construyendo+ideas+reales+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+%7C+Node.js+%7C+Python;React+%7C+Next.js+%7C+TypeScript;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1" />
 
 <br/><br/>
 
 <a href="https://github.com/AlexNR0">
   <img src="https://img.shields.io/github/followers/AlexNR0?label=Follow&style=social" />
 </a>
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/alejandro-jim%C3%A9nez-513043345/">
   <img src="https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alejandro.prof.98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contacta-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=AlexNR0&color=58A6FF&style=flat&label=Visitas+al+perfil" />
 
@@ -23,16 +26,17 @@
 ## 🧭 Sobre mí
 
 ```yaml
-alex:
-  rol: "Backend Developer / Frontend Developer"
-  ubicacion: "🌍 España"
+alejandro:
+  nombre: "Alejandro Jiménez"
+  rol: "Full Stack Developer"
+  ubicacion: "📍 Madrid, España"
   enfoque_actual: "Construir software limpio, escalable y útil"
   aprendiendo: ["Arquitectura de microservicios", "Cloud & DevOps"]
   filosofia: "Convertir ideas en proyectos reales"
   fun_fact: "Debuggeo mejor con un café al lado ☕"
 ```
 
-- 💻 Desarrollador apasionado por crear aplicaciones modernas
+- 💻 Desarrollador full stack apasionado por crear aplicaciones modernas
 - 🌱 Siempre aprendiendo nuevas tecnologías
 - 🎯 Mi objetivo es construir software limpio, escalable y útil
 - ⚡ Me gusta convertir ideas en proyectos reales
@@ -55,7 +59,7 @@ alex:
 <br/>
 
 ### Bases de datos & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -65,8 +69,8 @@ alex:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexNR0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNR0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexNR0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexNR0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 <img src="https://streak-stats.demolab.com?user=AlexNR0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
@@ -76,11 +80,23 @@ alex:
 
 ---
 
+## 🐍 Actividad de contribuciones (animada)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlexNR0/AlexNR0/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+> ⚙️ Esta animación tipo "snake" se genera sola cada día mediante GitHub Actions. Más abajo te explico cómo activarla en 2 minutos (es gratis y solo hay que copiar un archivo).
+
+---
+
 ## 🏆 Trofeos
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlexNR0&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlexNR0&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true"/>
 
 </div>
 
@@ -90,22 +106,22 @@ alex:
 
 <div align="center">
 
-<a href="https://github.com/AlexNR0/repositorio-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexNR0&repo=repositorio-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlexNR0/proyecto-1">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlexNR0&repo=proyecto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AlexNR0/repositorio-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexNR0&repo=repositorio-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlexNR0/proyecto-2">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlexNR0&repo=proyecto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AlexNR0/repositorio-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexNR0&repo=repositorio-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlexNR0/proyecto-3">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlexNR0&repo=proyecto-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AlexNR0/repositorio-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexNR0&repo=repositorio-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/AlexNR0/proyecto-4">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlexNR0&repo=proyecto-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </a>
 
 </div>
 
-> 💡 Sustituye `repositorio-1`, `repositorio-2`... por los nombres reales de tus repos para que se muestren las tarjetas automáticamente.
+> 💡 Sustituye `proyecto-1`, `proyecto-2`, `proyecto-3`, `proyecto-4` por los nombres reales de tus repositorios (tal cual aparecen en la URL de GitHub) para que se muestren las tarjetas correctamente.
 
 ---
 
@@ -113,13 +129,13 @@ alex:
 
 <div align="center">
 
-<a href="https://www.linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/alejandro-jim%C3%A9nez-513043345/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AlexNR0" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:tuemail@example.com" target="_blank">
+<a href="mailto:alejandro.prof.98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
