@@ -106,7 +106,8 @@ alejandro:
 
 <div align="center">
 
-<a href="https://github.com/AlexNR0/proyecto-1">
+<a href="https://github.com/AlexNR0/DOOMSDAY-JOURNEY
+">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlexNR0&repo=proyecto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/AlexNR0/proyecto-2">
